@@ -1,0 +1,27 @@
+PODS:
+  - mob_sharesdk (4.3.3):
+    - mob_sharesdk/ShareSDK (= 4.3.3)
+    - MOBFoundation
+  - mob_sharesdk/ShareSDK (4.3.3):
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/LinkedIn (4.3.3):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - MOBFoundation (3.2.6)
+
+DEPENDENCIES:
+  - mob_sharesdk
+  - mob_sharesdk/ShareSDKPlatforms/LinkedIn
+
+SPEC REPOS:
+  trunk:
+    - mob_sharesdk
+    - MOBFoundation
+
+SPEC CHECKSUMS:
+  mob_sharesdk: 48cb240a4b9cc393be2d6ff9c5b597ae77a1da73
+  MOBFoundation: 08c456357888e4c984fba23bbf04cfd2f4fc1e02
+
+PODFILE CHECKSUM: c858a6fed696415d2c0d946063529b63dba9be0e
+
+COCOAPODS: 1.8.4

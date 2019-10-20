@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-LearnShareSDK/Pods-LearnShareSDK-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/mob_sharesdk/ShareSDK.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/mob_sharesdk/ShareSDK_JS_LinkedIn.bundle
